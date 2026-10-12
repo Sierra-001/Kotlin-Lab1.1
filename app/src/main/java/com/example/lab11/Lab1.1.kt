@@ -31,7 +31,7 @@ fun WelcomeScreen() {
             modifier = Modifier.fillMaxSize(),
             contentAlignment = Alignment.Center
         ) {
-            Text(text = "Navin Welcomes You to First Android App!")
+            Text(text = "Jonathan Tonta\nAvenue Saturne, Beaux Songes\n2504_29170")
         }
     }
 }
